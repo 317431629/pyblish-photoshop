@@ -44,7 +44,7 @@ setup(
     classifiers=classifiers,
     package_data={"pyblish_photoshop": ["plugins/*.py"]},
     install_requires=[
-        "photoshop-python-api>=0.12.0",
+        "photoshop_python_api>=0.12.0",
         "pyblish_base>=1.2.1",
         "pyblish_lite>=0.8.0",
         "click>=7.0"
